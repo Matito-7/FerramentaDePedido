@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0tw1kaHKNf4=",
+  "dgSpecHash": "2QSZrtdoSkY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\matheus.lvaz\\source\\repos\\AplicacoesWindowsForm\\AppPediddo\\AppPediddo\\AppPediddo.csproj",
+  "projectFilePath": "C:\\Users\\matheus.lvaz\\Desktop\\GitHub\\exemplo\\FerramentaDePedido\\AppPediddo\\AppPediddo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\matheus.lvaz\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
     "C:\\Users\\matheus.lvaz\\.nuget\\packages\\google.protobuf\\3.32.0\\google.protobuf.3.32.0.nupkg.sha512",

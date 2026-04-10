@@ -1,41 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\matheus.lvaz\\source\\repos\\AplicacoesWindowsForm\\AppPediddo\\",
+  "WorkspaceRootPath": "C:\\Users\\matheus.lvaz\\Desktop\\GitHub\\exemplo\\FerramentaDePedido\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10C8D70E-13A0-49E9-ADDF-23DE87ECE331}|AppPediddo\\AppPediddo.csproj|c:\\users\\matheus.lvaz\\source\\repos\\aplicacoeswindowsform\\apppediddo\\apppediddo\\relatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{10C8D70E-13A0-49E9-ADDF-23DE87ECE331}|AppPediddo\\AppPediddo.csproj|c:\\users\\matheus.lvaz\\desktop\\github\\exemplo\\ferramentadepedido\\apppediddo\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10C8D70E-13A0-49E9-ADDF-23DE87ECE331}|AppPediddo\\AppPediddo.csproj|solutionrelative:apppediddo\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C8D70E-13A0-49E9-ADDF-23DE87ECE331}|AppPediddo\\AppPediddo.csproj|c:\\users\\matheus.lvaz\\desktop\\github\\exemplo\\ferramentadepedido\\apppediddo\\relatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{10C8D70E-13A0-49E9-ADDF-23DE87ECE331}|AppPediddo\\AppPediddo.csproj|solutionrelative:apppediddo\\relatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10C8D70E-13A0-49E9-ADDF-23DE87ECE331}|AppPediddo\\AppPediddo.csproj|c:\\users\\matheus.lvaz\\source\\repos\\aplicacoeswindowsform\\apppediddo\\apppediddo\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10C8D70E-13A0-49E9-ADDF-23DE87ECE331}|AppPediddo\\AppPediddo.csproj|c:\\users\\matheus.lvaz\\desktop\\github\\exemplo\\ferramentadepedido\\apppediddo\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10C8D70E-13A0-49E9-ADDF-23DE87ECE331}|AppPediddo\\AppPediddo.csproj|solutionrelative:apppediddo\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10C8D70E-13A0-49E9-ADDF-23DE87ECE331}|AppPediddo\\AppPediddo.csproj|C:\\Users\\matheus.lvaz\\source\\repos\\AplicacoesWindowsForm\\AppPediddo\\apppediddo\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{10C8D70E-13A0-49E9-ADDF-23DE87ECE331}|AppPediddo\\AppPediddo.csproj|C:\\Users\\matheus.lvaz\\Desktop\\GitHub\\exemplo\\FerramentaDePedido\\apppediddo\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{10C8D70E-13A0-49E9-ADDF-23DE87ECE331}|AppPediddo\\AppPediddo.csproj|solutionrelative:apppediddo\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10C8D70E-13A0-49E9-ADDF-23DE87ECE331}|AppPediddo\\AppPediddo.csproj|c:\\users\\matheus.lvaz\\source\\repos\\aplicacoeswindowsform\\apppediddo\\apppediddo\\relatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10C8D70E-13A0-49E9-ADDF-23DE87ECE331}|AppPediddo\\AppPediddo.csproj|c:\\users\\matheus.lvaz\\desktop\\github\\exemplo\\ferramentadepedido\\apppediddo\\relatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10C8D70E-13A0-49E9-ADDF-23DE87ECE331}|AppPediddo\\AppPediddo.csproj|solutionrelative:apppediddo\\relatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10C8D70E-13A0-49E9-ADDF-23DE87ECE331}|AppPediddo\\AppPediddo.csproj|c:\\users\\matheus.lvaz\\source\\repos\\aplicacoeswindowsform\\apppediddo\\apppediddo\\cadastroitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10C8D70E-13A0-49E9-ADDF-23DE87ECE331}|AppPediddo\\AppPediddo.csproj|c:\\users\\matheus.lvaz\\desktop\\github\\exemplo\\ferramentadepedido\\apppediddo\\cadastroitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10C8D70E-13A0-49E9-ADDF-23DE87ECE331}|AppPediddo\\AppPediddo.csproj|solutionrelative:apppediddo\\cadastroitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10C8D70E-13A0-49E9-ADDF-23DE87ECE331}|AppPediddo\\AppPediddo.csproj|C:\\Users\\matheus.lvaz\\source\\repos\\AplicacoesWindowsForm\\AppPediddo\\apppediddo\\cadastroitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{10C8D70E-13A0-49E9-ADDF-23DE87ECE331}|AppPediddo\\AppPediddo.csproj|C:\\Users\\matheus.lvaz\\Desktop\\GitHub\\exemplo\\FerramentaDePedido\\apppediddo\\cadastroitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{10C8D70E-13A0-49E9-ADDF-23DE87ECE331}|AppPediddo\\AppPediddo.csproj|solutionrelative:apppediddo\\cadastroitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10C8D70E-13A0-49E9-ADDF-23DE87ECE331}|AppPediddo\\AppPediddo.csproj|c:\\users\\matheus.lvaz\\source\\repos\\aplicacoeswindowsform\\apppediddo\\apppediddo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10C8D70E-13A0-49E9-ADDF-23DE87ECE331}|AppPediddo\\AppPediddo.csproj|c:\\users\\matheus.lvaz\\desktop\\github\\exemplo\\ferramentadepedido\\apppediddo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10C8D70E-13A0-49E9-ADDF-23DE87ECE331}|AppPediddo\\AppPediddo.csproj|solutionrelative:apppediddo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10C8D70E-13A0-49E9-ADDF-23DE87ECE331}|AppPediddo\\AppPediddo.csproj|c:\\users\\matheus.lvaz\\source\\repos\\aplicacoeswindowsform\\apppediddo\\apppediddo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{10C8D70E-13A0-49E9-ADDF-23DE87ECE331}|AppPediddo\\AppPediddo.csproj|C:\\Users\\matheus.lvaz\\Desktop\\GitHub\\exemplo\\FerramentaDePedido\\apppediddo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{10C8D70E-13A0-49E9-ADDF-23DE87ECE331}|AppPediddo\\AppPediddo.csproj|solutionrelative:apppediddo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10C8D70E-13A0-49E9-ADDF-23DE87ECE331}|AppPediddo\\AppPediddo.csproj|c:\\users\\matheus.lvaz\\source\\repos\\aplicacoeswindowsform\\apppediddo\\apppediddo\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10C8D70E-13A0-49E9-ADDF-23DE87ECE331}|AppPediddo\\AppPediddo.csproj|c:\\users\\matheus.lvaz\\desktop\\github\\exemplo\\ferramentadepedido\\apppediddo\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10C8D70E-13A0-49E9-ADDF-23DE87ECE331}|AppPediddo\\AppPediddo.csproj|solutionrelative:apppediddo\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -51,10 +55,22 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form2.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\matheus.lvaz\\Desktop\\GitHub\\exemplo\\FerramentaDePedido\\AppPediddo\\Form2.cs",
+              "RelativeDocumentMoniker": "AppPediddo\\Form2.cs",
+              "ToolTip": "C:\\Users\\matheus.lvaz\\Desktop\\GitHub\\exemplo\\FerramentaDePedido\\AppPediddo\\Form2.cs [Projeto]",
+              "RelativeToolTip": "AppPediddo\\Form2.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T18:02:33.357Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Relatorio.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\matheus.lvaz\\source\\repos\\AplicacoesWindowsForm\\AppPediddo\\AppPediddo\\Relatorio.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.lvaz\\Desktop\\GitHub\\exemplo\\FerramentaDePedido\\AppPediddo\\Relatorio.cs",
               "RelativeDocumentMoniker": "AppPediddo\\Relatorio.cs",
-              "ToolTip": "C:\\Users\\matheus.lvaz\\source\\repos\\AplicacoesWindowsForm\\AppPediddo\\AppPediddo\\Relatorio.cs [Projeto]",
+              "ToolTip": "C:\\Users\\matheus.lvaz\\Desktop\\GitHub\\exemplo\\FerramentaDePedido\\AppPediddo\\Relatorio.cs [Projeto]",
               "RelativeToolTip": "AppPediddo\\Relatorio.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-10T00:33:58.946Z",
@@ -62,11 +78,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Pedidos.cs",
-              "DocumentMoniker": "C:\\Users\\matheus.lvaz\\source\\repos\\AplicacoesWindowsForm\\AppPediddo\\AppPediddo\\Pedidos.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.lvaz\\Desktop\\GitHub\\exemplo\\FerramentaDePedido\\AppPediddo\\Pedidos.cs",
               "RelativeDocumentMoniker": "AppPediddo\\Pedidos.cs",
-              "ToolTip": "C:\\Users\\matheus.lvaz\\source\\repos\\AplicacoesWindowsForm\\AppPediddo\\AppPediddo\\Pedidos.cs",
+              "ToolTip": "C:\\Users\\matheus.lvaz\\Desktop\\GitHub\\exemplo\\FerramentaDePedido\\AppPediddo\\Pedidos.cs",
               "RelativeToolTip": "AppPediddo\\Pedidos.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAkwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -75,36 +91,34 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Relatorio.cs",
-              "DocumentMoniker": "C:\\Users\\matheus.lvaz\\source\\repos\\AplicacoesWindowsForm\\AppPediddo\\AppPediddo\\Relatorio.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.lvaz\\Desktop\\GitHub\\exemplo\\FerramentaDePedido\\AppPediddo\\Relatorio.cs",
               "RelativeDocumentMoniker": "AppPediddo\\Relatorio.cs",
-              "ToolTip": "C:\\Users\\matheus.lvaz\\source\\repos\\AplicacoesWindowsForm\\AppPediddo\\AppPediddo\\Relatorio.cs",
+              "ToolTip": "C:\\Users\\matheus.lvaz\\Desktop\\GitHub\\exemplo\\FerramentaDePedido\\AppPediddo\\Relatorio.cs",
               "RelativeToolTip": "AppPediddo\\Relatorio.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAwwB4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T00:35:20.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T00:35:20.727Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Pedidos.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\matheus.lvaz\\source\\repos\\AplicacoesWindowsForm\\AppPediddo\\AppPediddo\\Pedidos.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.lvaz\\Desktop\\GitHub\\exemplo\\FerramentaDePedido\\AppPediddo\\Pedidos.cs",
               "RelativeDocumentMoniker": "AppPediddo\\Pedidos.cs",
               "ToolTip": "C:\\Users\\matheus.lvaz\\source\\repos\\AplicacoesWindowsForm\\AppPediddo\\AppPediddo\\Pedidos.cs [Projeto]",
-              "RelativeToolTip": "AppPediddo\\Pedidos.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\AplicacoesWindowsForm\\AppPediddo\\AppPediddo\\Pedidos.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T00:47:48.545Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2026-04-09T00:47:48.545Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CadastroItem.cs",
-              "DocumentMoniker": "C:\\Users\\matheus.lvaz\\source\\repos\\AplicacoesWindowsForm\\AppPediddo\\AppPediddo\\CadastroItem.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.lvaz\\Desktop\\GitHub\\exemplo\\FerramentaDePedido\\AppPediddo\\CadastroItem.cs",
               "RelativeDocumentMoniker": "AppPediddo\\CadastroItem.cs",
-              "ToolTip": "C:\\Users\\matheus.lvaz\\source\\repos\\AplicacoesWindowsForm\\AppPediddo\\AppPediddo\\CadastroItem.cs",
+              "ToolTip": "C:\\Users\\matheus.lvaz\\Desktop\\GitHub\\exemplo\\FerramentaDePedido\\AppPediddo\\CadastroItem.cs",
               "RelativeToolTip": "AppPediddo\\CadastroItem.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwDUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -113,23 +127,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CadastroItem.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\matheus.lvaz\\source\\repos\\AplicacoesWindowsForm\\AppPediddo\\AppPediddo\\CadastroItem.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.lvaz\\Desktop\\GitHub\\exemplo\\FerramentaDePedido\\AppPediddo\\CadastroItem.cs",
               "RelativeDocumentMoniker": "AppPediddo\\CadastroItem.cs",
               "ToolTip": "C:\\Users\\matheus.lvaz\\source\\repos\\AplicacoesWindowsForm\\AppPediddo\\AppPediddo\\CadastroItem.cs [Projeto]",
-              "RelativeToolTip": "AppPediddo\\CadastroItem.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\AplicacoesWindowsForm\\AppPediddo\\AppPediddo\\CadastroItem.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T00:14:18.649Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2026-04-09T00:14:18.649Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\matheus.lvaz\\source\\repos\\AplicacoesWindowsForm\\AppPediddo\\AppPediddo\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.lvaz\\Desktop\\GitHub\\exemplo\\FerramentaDePedido\\AppPediddo\\Form1.cs",
               "RelativeDocumentMoniker": "AppPediddo\\Form1.cs",
-              "ToolTip": "C:\\Users\\matheus.lvaz\\source\\repos\\AplicacoesWindowsForm\\AppPediddo\\AppPediddo\\Form1.cs",
+              "ToolTip": "C:\\Users\\matheus.lvaz\\Desktop\\GitHub\\exemplo\\FerramentaDePedido\\AppPediddo\\Form1.cs",
               "RelativeToolTip": "AppPediddo\\Form1.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAmwDMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -138,11 +151,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Conexao.cs",
-              "DocumentMoniker": "C:\\Users\\matheus.lvaz\\source\\repos\\AplicacoesWindowsForm\\AppPediddo\\AppPediddo\\Conexao.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.lvaz\\Desktop\\GitHub\\exemplo\\FerramentaDePedido\\AppPediddo\\Conexao.cs",
               "RelativeDocumentMoniker": "AppPediddo\\Conexao.cs",
-              "ToolTip": "C:\\Users\\matheus.lvaz\\source\\repos\\AplicacoesWindowsForm\\AppPediddo\\AppPediddo\\Conexao.cs",
+              "ToolTip": "C:\\Users\\matheus.lvaz\\Desktop\\GitHub\\exemplo\\FerramentaDePedido\\AppPediddo\\Conexao.cs",
               "RelativeToolTip": "AppPediddo\\Conexao.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -150,15 +163,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\matheus.lvaz\\source\\repos\\AplicacoesWindowsForm\\AppPediddo\\AppPediddo\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.lvaz\\Desktop\\GitHub\\exemplo\\FerramentaDePedido\\AppPediddo\\Form1.cs",
               "RelativeDocumentMoniker": "AppPediddo\\Form1.cs",
               "ToolTip": "C:\\Users\\matheus.lvaz\\source\\repos\\AplicacoesWindowsForm\\AppPediddo\\AppPediddo\\Form1.cs [Projeto]",
-              "RelativeToolTip": "AppPediddo\\Form1.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\AplicacoesWindowsForm\\AppPediddo\\AppPediddo\\Form1.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T22:55:16.025Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2026-04-08T22:55:16.025Z"
             }
           ]
         }

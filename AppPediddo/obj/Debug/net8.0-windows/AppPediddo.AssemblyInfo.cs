@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppPediddo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e86bc10ed015b434a76aa54f778c3a1a999c425")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de75a64586d7ad9a33f4d242ad8544cbd902bd24")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppPediddo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppPediddo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

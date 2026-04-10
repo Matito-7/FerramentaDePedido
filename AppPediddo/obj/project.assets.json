@@ -602,11 +602,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matheus.lvaz\\source\\repos\\AplicacoesWindowsForm\\AppPediddo\\AppPediddo\\AppPediddo.csproj",
+      "projectUniqueName": "C:\\Users\\matheus.lvaz\\Desktop\\GitHub\\exemplo\\FerramentaDePedido\\AppPediddo\\AppPediddo.csproj",
       "projectName": "AppPediddo",
-      "projectPath": "C:\\Users\\matheus.lvaz\\source\\repos\\AplicacoesWindowsForm\\AppPediddo\\AppPediddo\\AppPediddo.csproj",
+      "projectPath": "C:\\Users\\matheus.lvaz\\Desktop\\GitHub\\exemplo\\FerramentaDePedido\\AppPediddo\\AppPediddo.csproj",
       "packagesPath": "C:\\Users\\matheus.lvaz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matheus.lvaz\\source\\repos\\AplicacoesWindowsForm\\AppPediddo\\AppPediddo\\obj\\",
+      "outputPath": "C:\\Users\\matheus.lvaz\\Desktop\\GitHub\\exemplo\\FerramentaDePedido\\AppPediddo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -670,7 +670,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
